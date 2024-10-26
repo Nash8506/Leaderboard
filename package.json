@@ -1,0 +1,16 @@
+{
+    "name": "leaderboard",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.21.1",
+        "mongoose": "^8.7.3"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
