@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import connectDB from './config/db.js'; // Note the .js extension in ES modules
+import connectDB from './config/db.js';
 
 // Load environment variables
 dotenv.config();
